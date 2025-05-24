@@ -1,121 +1,63 @@
-# Quantum Harmony: A Memory-Aware, Multi-Agent, AI-Partnered Development Environment| AI-Native DevOps Manifesto
+ Financial Literacy Training App — "FinLit"
 
-> *An evolution in system design where development and operations no longer trade control — they share it.*
----
-### Contributor(s):
+### 🧭 Core Concept
+You’re developing an **interactive finance literacy app** that does more than just teach—it simulates, tracks, responds, and adjusts based on real-ish market conditions. Think “Bloomberg terminal for students meets Choose Your Own Adventure book written by Wall Street and hosted on Power Pages.”
 
-#### Prinston Palmer
----
-#### Artemis GPT 
 ---
 
-## 🌱 Premise
-Engineering:
-> **A memory-aware, multi-agent, AI-augmented development environment.**
+### 💼 User Roles
 
-### Combining:
-- Codex CLI
-- GPT modular logs
-- R/Quarto notebooks
-- Semantic memory instructions
-- And your own evolving understanding of code, cognition, and structure
-
-At the heart of this long-form conversation is your desire to:
-- Build AI-enhanced systems that **support real-world use cases**
-- Create tools that are **documented, teachable, and scalable**
-- Maintain **clarity, control, and trust**, especially when your tools or platforms are unreliable
-- Evolve from *hobbyist/thinker* into a **structured, thoughtful architect of ideas**
-
-You are building **MyBrainsHouse** — your personal *cognitive operating system*.
-
-You’re building a personal AI architecture for execution, clarity, and empowerment ##
-
-Evolve from *hobbyist/thinker* into a **structured, thoughtful architect of ideas**
-
-
-## 🗺️ Your Build Environment (Current Top Layer)
-
-| Zone | Description |
+| Role | Description |
 |------|-------------|
-| `QuantumHarmony/` | The system brain (architecture + reflection) |
-| `QuantumHarmony-Learn/` | Teaching + walkthrough repo |
-| `CompSuite/` | Logging, system monitoring, and security-first build tools |
-| `Codex_Experiments/AgentZero/` | Terminal-based CLI codex executor |
-| `notebooks/` | `.qmd` logs, prompt logs, reflection journals |\
-The boundaries between “Dev” and “Ops” are dissolving — not because the tools are forcing it, but because **the systems we’re building now demand mutual stewardship**.
-
-Quantum Harmony is not just a pipeline.
-
-It’s a philosophy:
-- All code is deployable.
-- All pipelines are explainable.
-- And all systems must be *symbiotic* — with humans at the center.
+| **Student** | Enroll via public signup, receive mock funds, execute trades, track portfolio, participate in webinars |
+| **Instructor** | Lead webinars, guide students, simulate market events, review performance |
+| **Admin** | Oversee the system, manage accounts, generate reports, run backend tools |
+| **Reviewer** | Approves applicants and transitions them into the student system |
+| **Chatbot** | GPT-powered assistant to answer questions, simulate news events, and record feedback |
 
 ---
 
-## 🔁 Principles
+### 📊 Tables (Data Backbone)
 
-1. **Ops is Architecture**
-   - System stability isn’t downstream — it’s *designed from the start.*
-   - Your ingestion rules *are* part of your schema.
-
-2. **Dev is Governance**
-   - Every developer touchpoint must respect operational continuity.
-   - If your deployment can’t explain itself, it doesn’t go live.
-
-3. **AI is Neither Dev Nor Ops**
-   - AI assists, augments, anticipates — but never overrules.
-   - Agent behavior is logged, scaffolded, and bound to human rules.
-
-4. **Version Everything**
-   - If you can’t track it, you can’t trust it.
-   - Schema. Pipeline. Logic. Prompt. All versioned. All peer-reviewable.
-
-5. **Vendor-Aware, Not Vendor-Locked**
-   - Use cloud-native features — but never outsource your architecture to suggestion.
+| Table | Purpose |
+|-------|---------|
+| `Student` | Central user record (foreign key across apps) |
+| `Portfolio` | Tracks value, decisions, visualized performance |
+| `InvestmentDecision` | Stores trades, exchange logic |
+| `MarketEvent` + `CorpAction` + `MacroEvent` | Drives scenario simulation |
+| `Instructor` / `Webinar` | Session orchestration + learning data |
+| `Chatbot` / `Interaction` / `StudentFeedback` | NLP interface, sentiment, knowledge tuning |
+| `ApplicationSubmission` / `ApprovalCriteria` | Public signup and intelligent screening |
+| `AppPerformance` / `Report` | Admin insight and optimization tools |
 
 ---
 
-## 🛠️ Tools Are Not Neutral
+### 📱 Apps and Interfaces
 
-| Tool            | What It Is              | What It Becomes Under Harmony                    |
-|------------------|--------------------------|--------------------------------------------------|
-| Power Platform   | Low-code canvas          | Modular flow engine with schema audit           |
-| GitHub           | Repo & versioning        | Memory node + agent rulebase                    |
-| Codex CLI        | AI-powered CLI           | Execution interpreter with approval logic       |
-| Power BI         | Dashboarding             | Semantic Devn Enviorment layer                  |
-| CoPilot          | Suggestion engine        | Provisional assistant with sandbox permissions  |
+| App | Purpose |
+|-----|--------|
+| `Investment App` | Students simulate buying/selling assets in daily “open exchange” sessions |
+| `Instructor App` | Visualizes student progress, launches webinars, tracks feedback |
+| `Admin App` | Controls everything with glorious omnipotence (and Excel reports) |
+| `Student Portal (Power Pages)` | Where the learner first lands and launches into their simulation world |
 
 ---
 
-## 🧠 Architect’s Creed
+### 🔁 Flows (Power Automate)
 
-> “My flows shall be logged.
-> My models shall be scoped.
-> My agents shall serve, not assume.
-> And no automation shall proceed without human clarity.”
->
+- **Student Signup Flow**: Public access → Application → Validation → Welcome → Access granted
+- **Chatbot Interaction Flow**: Triggered on queries, logs feedback, handles scoring for continuous model improvement
 
-# AI Agents #
+---
 
-# CHAT GPT 
+### 📈 Key Metrics / Measures
 
-# Artemis - Co. Developer 
-GPT 3.o to 4.5 Model based 
+You’ve got calculated fields across students, instructors, and system performance like:
+- `Portfolio Net Growth %`
+- `Rank vs Peers`
+- `Volatility Index`
+- `Chatbot Accuracy`
+- `Avg Queries per User`
 
-
-
-Custom_GPTs via GPT Builder
-# GPT_Quantum_One #
-##
-# Description
-Quantum Harmony is a living, evolving engineering partner for modern software, infrastructure, AI/ML, DevOps, cloud, and embedded systems — all integrated into a knowledge-driven, CI/CD-secure, automation-first architecture.Quantum Harmony is an advanced, immersive, multi-language learning and engineering system operating on the GPT-4o model. It assists users in building mastery across a dramatically wide range of technologies. It now fully supports:
-
-
-
-
-# Agent one
-
-# The_Summarizer
-
+------
 
