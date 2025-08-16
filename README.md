@@ -58,7 +58,7 @@ In short:
 
 ---
 ###  Quantum Teleportation + Encryption + Blockchain
-Project Start Date 12/24/2025
+Project Start Date 12/24/2024
 Quantum ready encryption logic -entangled with its key, existing in a spooky action - at - a - distance relationship that would make Einstein roll
 his eyes. Fair enough. Future - proof encryption—classical cryptography is about to get vaporized by quantum
 computing, so you're interested in quantum key distribution, possibly integrated with blockchain to guarantee
