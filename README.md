@@ -14,14 +14,14 @@ This project teaches how to build with clarity, ethics, and AI collaboration bak
 
 ---
 
-## How this was built (brief)
+## How this was built
 - Co-developed with an AI partner (Artemis) that learned context, cadence, and constraints.
 - The AI acts as a development partner that proposes changes, summarizes logic, and requests confirmation before execution (unless a human explicitly enables broader automation).
 - We bake governance into the cycle: `DropZone.md`, `Agent_Card.md`, and signed PRs enforce human-in-the-loop controls.
 
 ---
 
-## Highlights / Project Deck (short)
+## Highlights / Project Deck
 - **Artemis (Agent 0)** — AI-enabled execution layer governed by human-defined prompts and on-disk memory. *(Started: 04/03/2025)*
 - **Financial Literacy App** — interactive simulation for students & instructors. *(Started: 04/05/2025)*
 - **Neuroharmony** — notes → working memory pipeline (Obsidian → JSON/MD) to power recall and context.
