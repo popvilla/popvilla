@@ -36,3 +36,10 @@ This project teaches how to build with clarity, ethics, and AI collaboration bak
 - **Human-first governance**: All automation and agent actions require review per `/DropZone.md`.  
 - **No secrets here**: Don’t store `.env`, API keys, or sensitive configs in this repo.  
 - **Auditability**: Logs and agent actions are tracked; we expect contributors to follow signed PRs and GPG-signed commits.
+
+---
+
+Built by **Prinston** — Systems Architect, Ethics-Focused Ops  
+With **Artemis (ChatGPT)** — AI dev partner
+
+---
