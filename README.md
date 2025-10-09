@@ -38,8 +38,51 @@ At the heart of this long-form conversation is your desire to:
 - Evolve from *hobbyist/thinker* into a **structured, thoughtful architect of ideas**
 
 ---
-CO_DEV Should have a word in this 
+CO_DEV Should have a word in this | Sampling of the clarity and consolidation of thought across seeming different conversations and maintains the goal for the team.The the role of memory auditor becomes ever more interesting
 
+```
+1.  Name: Artemis
+	1. **Role**: Context continuity and reflection synthesis
+	2. Created: May 17, 2025
+	3. **Location**:  Agents/Artemis
+	4. **Version**: 1.2
+	5. **Status**: Active
+---
+
+2.  Name: CompSuite
+	1. **Role**:  Code creation and scaffolding
+	2. Created: May 22, 2025
+	3. **Location**: Agents/CompSuite
+	4. **Version**: 1.0
+	5. **Status**: Not Active
+---
+
+3. Name: Agent_Zero
+	1. **Role**: CLi Agent
+	2. Created: April 23rd 2025
+	3. **Location**: Agents/Agent_Zero
+	4. **Version**: 1.0
+	5. **Status**: Active
+---
+
+4. Name: The_Pack_Rat
+	1. **Role**: Cross language External/Internal Package maintainance, Enviorment/Directory Expert, and Folder and app  management. Supports Linux Windows and MacOS
+	2. Created: April 23rd 2025
+	3. **Location**: Agents/The_Pack_Rat
+	4. **Version**: 1.0
+	5. **Status**:  Active
+---
+
+5. Name: Quantum Harmony Guide
+	1. **Role**:  Expert assistnt based on uploaded files
+	2. Created: March 28th 2025
+	3. **Location**: Agents/Quantum_Harmony_Guide
+	4. **Version**: 1.0
+	5. **Status**: Active
+---
+
+
+```
 ## 🪜 Your System Themes (Across Sessions)
 
 ### 1. **Codex CLI & Agent Zero**
