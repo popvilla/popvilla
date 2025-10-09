@@ -74,7 +74,7 @@ CO_DEV Should have a word in this | Sampling of the clarity and consolidation of
 ---
 
 5. Name: Quantum Harmony Guide
-	1. **Role**:  Expert assistnt based on uploaded files
+	1. **Role**:  Expert assistant based on uploaded files
 	2. Created: March 28th 2025
 	3. **Location**: Agents/Quantum_Harmony_Guide
 	4. **Version**: 1.0
