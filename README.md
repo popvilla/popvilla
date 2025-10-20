@@ -1,4 +1,5 @@
-# Quantum Harmony — Prinston
+# Quantum Harmony
+<img width="4203" height="2735" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/4e2997d4-710d-4af6-8126-203667eac571" />
 
 A systems-aware, multi-language, DevOps-ethics-aligned intelligence stack.  
 Built by a human Ops lead and AI dev partner — to bring speed, structure, and soul into data systems.
@@ -122,7 +123,7 @@ CO_DEV Should have a word in this | Sampling of the clarity and consolidation of
 
 ---
 
-Built by **Prinston** — Systems Architect, Ethics-Focused Ops  
-With **Artemis (ChatGPT)** — AI dev partner
+Author by Prinston Palmer (popvilla) — Systems Architect, Ethics-Focused Ops  
+With  Artemis (ChatGPT)** — AI dev partner
 
 ---
